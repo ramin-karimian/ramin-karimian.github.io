@@ -1,4 +1,4 @@
-# About me
+## About me
 
 I am a versatile data scientist skilled in ML/DL, data analysis, and NLP. With 5-years of proficient Python
 programming experience, I excel in applying data science techniques and advanced ML/DL models to solve diverse challenges.
@@ -46,10 +46,10 @@ and problem-solving skills in a multicultural and interdisciplinary environment.
 
 ## Skills
 
-- **Specialized skills**: Machine Learning, Deep Learning, Data Manipulation, Statistical Analysis, Data Visualization, Cloud Computing,
-- AWS, Computer Vision, NLP, Text Mining, Recommendation Systems, Big Data, Predictive Modeling, Trend Analysis, A/B testing
+- **Specialized skills**: Machine Learning, Deep Learning, Data Manipulation, Statistical Analysis, Data Visualization, Cloud Computing, 
+AWS, Computer Vision, NLP, Text Mining, Recommendation Systems, Big Data, Predictive Modeling, Trend Analysis, A/B testing
 - **Programming Languages & Libraries**: Python (advanced), R (intermediate), C++ (elementary), SQL,
-- Scikit-learn, SciPy, TensorFlow, PyTorch, Scikit-bio, Matplotlib, Pandas, Numpy, Networkx, Vegan (R)
+Scikit-learn, SciPy, TensorFlow, PyTorch, Scikit-bio, Matplotlib, Pandas, Numpy, Networkx, Vegan (R)
 - **Tools**: Linux (Lpic-1 certificate), Unix, Git, GitHub, Adobe Illustrator, Gephi, Microsoft Office
 - **Soft skills**: Self-motivated, Teamwork, Collaboration, Problem-solving, Adaptability, Presentation Skills
 - **Languages**: Fluent in Persian, English, and Azeri.
@@ -87,13 +87,13 @@ and problem-solving skills in a multicultural and interdisciplinary environment.
 ---
 
 
-### Let's Connect!
+## Let's Connect!
 
 I'm always open to collaborating on exciting projects and discussing new opportunities. Feel free to reach out to me!
 
-📍 **Location**: Kelowna, BC, Canada
-
+📍 **Location**: Kelowna, BC, Canada   
 📧 **Email**: [raminkarimiangh@gmail.com](mailto:raminkarimiangh@gmail.com)   
-🔗 **LinkedIn**: [ramin-karimian](https://www.linkedin.com/in/ramin-karimian/)
-
+🔗 **LinkedIn**: [ramin-karimian](https://www.linkedin.com/in/ramin-karimian/)   
+💻 **GitHub**: [GitHub Profile](https://github.com/ramin-karimian)   
+📖 **Google Scholar**: [Google Scholar Profile](<https://scholar.google.com/citations?user=7c6KP2kAAAAJ&hl=en>)
 ---
