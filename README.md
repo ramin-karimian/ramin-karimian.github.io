@@ -112,7 +112,7 @@ Scikit-learn, SciPy, TensorFlow, PyTorch, Scikit-bio, Matplotlib, Pandas, Numpy,
 - [Long-term outcomes of antibiotic treatments in fecal microbiota transplantation donors on microbiota composition, function, and antibiotic resistance genes](https://doi.org/10.14288/1.0441408)
 - [Research topics and trends of the hashtag recommendation domain (2021)](https://doi.org/10.1007/s11192-021-03874-6)
 - [Role of Akkermansia muciniphila in luminal cholesterol metabolism and metabolic health (Under review)]()
-- [Long-term outcomes of antibiotic treatments in fecal microbiota transplantation donors on microbiota composition, function, and antibiotic resistance genes (ready to submit)](https://doi.org/10.14288/1.0441408)
+- [Long-term outcomes of antibiotic treatments in fecal microbiota transplantation donors on microbiota composition, function, and antibiotic resistance genes (Under review)](https://doi.org/10.14288/1.0441408)
 
 ---
 
