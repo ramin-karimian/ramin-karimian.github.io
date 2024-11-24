@@ -5,7 +5,7 @@ programming experience, I excel in applying data science techniques and advanced
 I am self-motivated and thrive on continuous learning and collaboration. My experience at BMR has enhanced my communication,
 and problem-solving skills in a multicultural and interdisciplinary environment.
 
-- **Current Role**: Research Engineer at BMR Group, UBC
+- **Current Role**: Research Assistant at BMR Group, UBC
 - **Interests**: Data Science, ML/DL, AI, NLP, Bioinformatics
 
 ---
@@ -13,13 +13,12 @@ and problem-solving skills in a multicultural and interdisciplinary environment.
 ## Professional Experience
 
 
-#### Research Engineer @ BMR group, University of British Columbia
+#### Research Assistant @ BMR group, University of British Columbia
 *(Apr 2024 - current)*
 - Apply data analysis, machine learning, and statistical models and algorithms to healthcare projects.
-- Provide data consultation, technical and computational support on data analysis, bioinformatics, programming, and
-- visualization to team members and collaborators.
+- Provide data consultation, technical and computational support on data analysis, bioinformatics, programming, and data visualization to team members and collaborators.
 
-#### Research Assistant @ BMR group, University of British Columbia
+#### Graduate Research Assistant @ BMR group, University of British Columbia
 *(Sep 2021 - Apr 2024)*
 - Implement and Utilize bioinformatics pipelines in the microbiome field. 
 - Apply data science and machine learning techniques and statistical modeling on multi-omics projects. 
@@ -52,18 +51,40 @@ AWS, Computer Vision, NLP, Text Mining, Recommendation Systems, Big Data, Predic
 Scikit-learn, SciPy, TensorFlow, PyTorch, Scikit-bio, Matplotlib, Pandas, Numpy, Networkx, Vegan (R)
 - **Tools**: Linux (Lpic-1 certificate), Unix, Git, GitHub, Adobe Illustrator, Gephi, Microsoft Office
 - **Soft skills**: Self-motivated, Teamwork, Collaboration, Problem-solving, Adaptability, Presentation Skills
-- **Languages**: Fluent in Persian, English, and Azeri.
+- **Languages**: Persian, English, Azeri, Turkish
 
+---
+
+## Selected Projects
+
+- **Developed a novel co-clustering model integrating community detection from social network analysis and advanced text representation techniques, achieving enhanced accuracy in document clustering, particularly for overlapping datasets, through innovative use of topic modeling and sentence embeddings.**
+- **Developed enhanced discrete particle swarm optimization (EDPSO) algorithms for social network anonymization, minimizing structural information loss (SIL) while preserving data utility.**
+- **Developed a tree-LSTM based model for hashtag recommendation task on Twitter, comparing its performance to other DL-based models such as uni/multi-layer LSTM, Bi-LSTM, and CNN.**
+- **Implementing deep learning and machine learning models for various tasks: face recognition using CNN, music generation on a corpus of Jazz music using LSTM, text classification using RNN and LSTM model, and image compression model using machine learning clustering algorithms.**
+- **Employing Multiple Criteria Decision Making (MCDM) models for fabric selection in decision-making processes for Lululemon.**
+- **Analyzed bacteriome community and metabolic pathways in cardiovascular disease patient samples using diverse bioinformatics pipelines, data analysis, statistical analysis, and ML methods.**
+- **Metabolomics project: Examining the impact of a specific treatment on individual metabolite profiles through longitudinal data analysis, contrasted with placebo control samples.**
+- **Performed longitudinal time series analysis on human gut microbiome samples pre/post-FMT treatment, comparing bacterial-filtrate and non-filtrate FMT samples to assess treatment outcomes. Utilized HI-C sequencing, distinct bioinformatics pipelines, and statistical techniques for comprehensive data analysis.**
+- **Simulating a blockchain technology (Ethereum) from scratch using Node.js language.**
 ---
 
 ## Education
 
-- **M.Sc. Engineering**  
+- **M.Sc. Engineering**
   University of British Columbia (April 2024)
+  - Research topic: Long-Term Outcomes of Antibiotic Treatments in Fecal Microbiota Transplantation Donors on Microbiota Composition, Function, and Antibiotic Resistance Genes.
+  - GPA: A 
+  - Recieved Mitacs Scholarship for my research. 
+
 - **M.Sc. Information Technology (IT) - eCommerce**  
   Iran University of Science and Technology (September 2020)
+  - Research topic: Proposing a hashtag recommendation model on social media platforms (Twitter) based on the deep learning approach (tree-LSTM).
+  - GPA: A 
+  
 - **B.Sc. Industrial Engineering**  
   Iran University of Science and Technology (September 2017)
+  - Research topic: Analyzing information propagation methods in the social networks.
+  - GPA: A 
 
 ---
 
@@ -82,7 +103,9 @@ Scikit-learn, SciPy, TensorFlow, PyTorch, Scikit-bio, Matplotlib, Pandas, Numpy,
 - [The transition from a non-westernized to westernized gut microbiome in Indian-Immigrants and Indo-Canadians is associated with dietary acculturation (2024)](https://doi.org/10.1101/2024.03.04.582285)
 - [Advancing Antimicrobial Textiles: A Comprehensive Study on Combating ESKAPE Pathogens and Ensuring User Safety (2024)](https://doi.org/10.3390/ma17020383)
 - [Long-term outcomes of antibiotic treatments in fecal microbiota transplantation donors on microbiota composition, function, and antibiotic resistance genes](https://doi.org/10.14288/1.0441408)
-- [Research topics and trends of the hashtag recommendation domain (2021)](https://doi.org/10.1007/s11192-021-03874-6) 
+- [Research topics and trends of the hashtag recommendation domain (2021)](https://doi.org/10.1007/s11192-021-03874-6)
+- [Role of Akkermansia muciniphila in luminal cholesterol metabolism and metabolic health (Under review)]()
+- [Long-term outcomes of antibiotic treatments in fecal microbiota transplantation donors on microbiota composition, function, and antibiotic resistance genes (ready to submit)](https://doi.org/10.14288/1.0441408)
 
 ---
 
