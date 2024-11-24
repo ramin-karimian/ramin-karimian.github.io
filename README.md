@@ -57,15 +57,14 @@ Scikit-learn, SciPy, TensorFlow, PyTorch, Scikit-bio, Matplotlib, Pandas, Numpy,
 
 ## Selected Projects
 
-- **Developed a novel co-clustering model integrating community detection from social network analysis and advanced text representation techniques, achieving enhanced accuracy in document clustering, particularly for overlapping datasets, through innovative use of topic modeling and sentence embeddings.**
-- **Developed enhanced discrete particle swarm optimization (EDPSO) algorithms for social network anonymization, minimizing structural information loss (SIL) while preserving data utility.**
-- **Developed a tree-LSTM based model for hashtag recommendation task on Twitter, comparing its performance to other DL-based models such as uni/multi-layer LSTM, Bi-LSTM, and CNN.**
-- **Implementing deep learning and machine learning models for various tasks: face recognition using CNN, music generation on a corpus of Jazz music using LSTM, text classification using RNN and LSTM model, and image compression model using machine learning clustering algorithms.**
-- **Employing Multiple Criteria Decision Making (MCDM) models for fabric selection in decision-making processes for Lululemon.**
-- **Analyzed bacteriome community and metabolic pathways in cardiovascular disease patient samples using diverse bioinformatics pipelines, data analysis, statistical analysis, and ML methods.**
-- **Metabolomics project: Examining the impact of a specific treatment on individual metabolite profiles through longitudinal data analysis, contrasted with placebo control samples.**
-- **Performed longitudinal time series analysis on human gut microbiome samples pre/post-FMT treatment, comparing bacterial-filtrate and non-filtrate FMT samples to assess treatment outcomes. Utilized HI-C sequencing, distinct bioinformatics pipelines, and statistical techniques for comprehensive data analysis.**
-- **Simulating a blockchain technology (Ethereum) from scratch using Node.js language.**
+- Developed a novel co-clustering model integrating community detection from social network analysis and advanced text representation techniques, through innovative use of topic modeling and sentence embeddings.
+- Developed a tree-LSTM based model for hashtag recommendation task on Twitter, comparing its performance to other DL-based models such as uni/multi-layer LSTM, Bi-LSTM, and CNN.
+- Developed enhanced discrete particle swarm optimization (EDPSO) algorithms for social network anonymization.
+- Employing Multiple Criteria Decision Making (MCDM) models for fabric selection in decision-making processes for Lululemon.
+- Analyzed bacteriome community and metabolic pathways in cardiovascular disease patient samples using diverse bioinformatics pipelines, data analysis, statistical analysis, and ML methods.
+- Metabolomics project: Examining the impact of a specific treatment on individual metabolite profiles through longitudinal data analysis, contrasted with placebo control samples.
+- Performed longitudinal time series analysis on human gut microbiome samples pre/post-FMT treatment, comparing bacterial-filtrate and non-filtrate FMT samples to assess treatment outcomes. Utilized HI-C sequencing, distinct bioinformatics pipelines, and statistical techniques for comprehensive data analysis.
+
 ---
 
 ## Education
