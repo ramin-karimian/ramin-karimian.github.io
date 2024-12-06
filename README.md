@@ -35,7 +35,7 @@ and problem-solving skills in a multicultural and interdisciplinary environment.
 - Teaching assistant for "Technologies and Tools for Developing E-commerce" graduate course
 
 
-#### Front-end Web Developer  @ Startup Company (Estudo)
+#### Front-end Web Developer  @ Startup Company (Estudo), Tehran, Iran
 *(Nov 2016 - Aug 2017)*
 - Utilized React.js for front-end development. 
 - Used Git, Node.js, MongoDB, and Linux. 
@@ -102,6 +102,27 @@ Scikit-learn, SciPy, TensorFlow, PyTorch, Scikit-bio, Matplotlib, Pandas, Numpy,
 
 ---
 
+## Selected Courses
+
+- Engineering Economics 
+- General Economy I and II
+- Concepts and Models for E-Commerce
+- Security in E-Commerce
+- Algorithms and Computer Programming 
+- Applied Machine Learning for Engineers
+- Deep and Reinforcement Learning for Engineers
+- Data Mining and Data Warehousing
+- Statistical Modeling 
+- Probability Theory and its Application 
+- Engineering Statistics
+- Multicriteria Optimization and Design of Experiments
+
+---
+
+#### Certified Linux Administrator (Lpic-1),  Jan 2017
+- [Fanavaran Anisa Institute](https://anisa.co.ir/)
+
+---
 ## Publications
 
 
