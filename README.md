@@ -104,10 +104,7 @@ Scikit-learn, SciPy, TensorFlow, PyTorch, Scikit-bio, Matplotlib, Pandas, Numpy,
 
 ## Selected Courses
 
-- Engineering Economics 
-- General Economy I and II
-- Concepts and Models for E-Commerce
-- Security in E-Commerce
+
 - Algorithms and Computer Programming 
 - Applied Machine Learning for Engineers
 - Deep and Reinforcement Learning for Engineers
