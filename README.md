@@ -57,21 +57,30 @@ Scikit-learn, SciPy, TensorFlow, PyTorch, Scikit-bio, Matplotlib, Pandas, Numpy,
 
 ## Selected Projects
 
-- Developed a novel co-clustering model integrating community detection from social network analysis and advanced text representation techniques, through innovative use of topic modeling and sentence embeddings.
- 
-- Developed a tree-LSTM based model for hashtag recommendation task on Twitter, comparing its performance to other DL-based models such as uni/multi-layer LSTM, Bi-LSTM, and CNN.
+- A novel text clustering model based on topic modeling and social network analysis ([link to paper](https://www.sciencedirect.com/science/article/pii/S096007792400184X), [GitHub repo](https://github.com/ramin-karimian/text-clustering)):
+  - Developed a document clustering algorithm combining NLP (LLMs, transformers, topic modeling) and social network analysis and improved accuracy by 30% compared to traditional methods. 
+  - Using advanced text representations based on deep learning (USE, ELMO, BERT) and topic modeling (LDA, PTM) approaches. 
+  - Constructed document similarity networks and applied clustering algorithms like Louvain Modularity and Link Community Detection.
 
-- Developed enhanced discrete particle swarm optimization (EDPSO) algorithms for social network anonymization.
+- Recommendation Systems: Developed a hashtag recommendation algorithm based on a graph-based neural network (tree-LSTM model) in a social media platform (Twitter), achieving a 10% accuracy improvement over baseline models (LSTM, Bi-LSTM, Multi-layer LSTM, etc.).
 
-- Employing Multiple Criteria Decision Making (MCDM) models for fabric selection in decision-making processes for Lululemon.
+- Conducted longitudinal data analysis of gut microbiome pre/post-FMT treatment ([under review paper](https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0441408)). 
+  - Compared bacteriome, virome, functional pathways, and ARGs to evaluate treatment outcomes.
+  - Applied HI-C and metagenomic sequencing with bioinformatics tools (MetaPhlAn4, StrainPhlAn4, HUMAnN3, Kraken3, CARD/RGI).
+  - Used advanced statistical techniques, including parametric/non-parametric methods and statistical modeling.
+
+- Developed enhanced discrete particle swarm optimization (EDPSO) algorithms for social network anonymization ([link to paper](https://doi.org/10.1016/j.ins.2024.120631)).
+
+- Applied MCDM models and statistical methods for fabric selection at Lululemon ([first paper link](https://www.mdpi.com/1996-1944/17/2/383)).
+  - Utilized TOPSIS and Multi-MOORA to evaluate fabrics based on biomechanical features, reducing skin-fabric defects. 
+  - Employed pairwise comparisons, post-hoc analysis, FDA corrections, PCA, K-Means, and regression models for feature engineering and clustering.
 
 - Implementing deep learning and machine learning models for various tasks: face recognition using CNN, music generation on a corpus of Jazz music using LSTM, text classification using RNN and LSTM model, and image compression model using machine learning clustering algorithms.
 
-- Analyzed bacteriome community and metabolic pathways in cardiovascular disease patient samples using diverse bioinformatics pipelines, data analysis, statistical analysis, and ML methods.
+- Analyzed bacteriome community and metabolic pathways in cardiovascular disease patient samples using diverse bioinformatics pipelines, data analysis, statistical analysis, and ML methods .
 
 - Metabolomics project: Examining the impact of a specific treatment on individual metabolite profiles through longitudinal data analysis, contrasted with placebo control samples.
 
-- Performed longitudinal time series analysis on human gut microbiome samples pre/post-FMT treatment, comparing bacterial-filtrate and non-filtrate FMT samples to assess treatment outcomes. Utilized HI-C sequencing, distinct bioinformatics pipelines, and statistical techniques for comprehensive data analysis.
 
 ---
 
