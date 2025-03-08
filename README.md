@@ -5,7 +5,7 @@ programming experience, I excel in applying data science techniques and advanced
 I am self-motivated and thrive on continuous learning and collaboration. My experience at BMR has enhanced my communication,
 and problem-solving skills in a multicultural and interdisciplinary environment.
 
-- **Current Role**: Research Assistant at BMR Group, UBC
+- **Current Role**: Research Associate - Data Scientist  at UBC (BMR Group)
 - **Interests**: Data Science, ML/DL, AI, NLP, Bioinformatics
 
 ---
@@ -13,7 +13,7 @@ and problem-solving skills in a multicultural and interdisciplinary environment.
 ## Professional Experience
 
 
-#### Research Assistant @ BMR group, University of British Columbia
+#### Research Associate - Data Scientist  @ BMR group, University of British Columbia
 *(Apr 2024 - current)*
 - Apply data analysis, machine learning, and statistical models and algorithms to healthcare projects.
 - Provide data consultation, technical and computational support on data analysis, bioinformatics, programming, and data visualization to team members and collaborators.
